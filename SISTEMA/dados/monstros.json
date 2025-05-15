@@ -1,0 +1,13 @@
+{
+    "Slime": {
+        "descricao": "Uma gosma gelatinosa de cores variáveis mas geralmente azul, e um ser fraco mas que sempre andam em bando.",
+        "imagem": "https://images.app.goo.gl/ey1WrYqoyX2FgvGg6"
+    },
+    "gorila": {
+        "descricao": "monkey alto forte e preto"
+    },
+    "Monkey": {
+        "descricao": "Um ser vivo batizado como Victor rogenare, mais conhecido como Baiano ou Monkey.",
+        "imagem": "https://cdn.discordapp.com/ephemeral-attachments/1372367739771158690/1372368676984197171/IMG-20250423-WA0012.jpg?ex=6826856d&is=682533ed&hm=8fe5f22c2ad3e4ac2de7f947aec1d53459ab5b89fea6e683709727078c9f4498&"
+    }
+}

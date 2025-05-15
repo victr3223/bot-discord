@@ -1,0 +1,1 @@
+Projeto de bot de RPG para Discord - Estrutura organizada.
