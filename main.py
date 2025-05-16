@@ -2,8 +2,8 @@ import discord
 from discord.ext import commands
 from discord import app_commands
 import os
-
 TOKEN = os.getenv("DISCORD_TOKEN")
+
 
 intents = discord.Intents.default()
 intents.guilds = True
